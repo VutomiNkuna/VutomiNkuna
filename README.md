@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Vutomi Nkuna</h1>
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 <iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="400" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
-
+<img align="right" alt="Coding" width="400" src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vutominkuna&label=Profile%20views&color=0e75b6&style=flat" alt="vutominkuna" /> </p>
 
 - 📫 How to reach me **vutominkuna26@gmail.com**
