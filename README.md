@@ -1,7 +1,7 @@
 [![MasterHead](file:///C:/Users/Vutomi/Desktop/Belgium%20Campus/Projects/GitHub%20ReadMe/standard.gif)]
 <h1 align="center">Hi 👋, I'm Vutomi Nkuna</h1>
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="271" style="" />
+<img align="right"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="271" style="" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vutominkuna&label=Profile%20views&color=0e75b6&style=flat" alt="vutominkuna" /> </p>
 
 - 📫 How to reach me **vutominkuna26@gmail.com**
