@@ -1,4 +1,4 @@
-[![MasterHead](file:///C:/Users/Vutomi/Desktop/Belgium%20Campus/Projects/GitHub%20ReadMe/standard.gif)]
+[![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)]
 <h1 align="center">Hi 👋, I'm Vutomi Nkuna</h1>
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 <img align="right"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="271" style="" />
