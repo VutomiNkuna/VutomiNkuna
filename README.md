@@ -1,4 +1,4 @@
-[![MasterHead](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif(https://imgur.com/a/J2X2PJs))]
+[![MasterHead](https://imgur.com/JemcsET)]
 <h1 align="center">Hi 👋, I'm Vutomi Nkuna</h1>
 <h3 align="center">A passionate Software Engineer from South Africa</h3>
 <img align="right"  src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="271" style="" />
