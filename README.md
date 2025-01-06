@@ -10,7 +10,6 @@ I am a curious, driven individual with a strong foundation in **programming** an
 
 # 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=VutomiNkuna&theme=ambient_gradient&hide_border=false)
-![](https://github-readme-stats.vercel.app/api?username=VutomiNkuna&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VutomiNkuna&theme=ambient_gradient&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 ## 🏆 GitHub Trophies
