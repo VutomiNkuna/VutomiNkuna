@@ -7,7 +7,7 @@
 ## 🚀 About Me
 I am a curious, driven individual with a strong foundation in **programming** and a growing interest in **data science** and **machine learning**. I love to create solutions that make a real impact and enjoy collaborating with others to achieve success.
 
-[![Vutomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VutomiNkuna private=true&show icons=true&theme=radical&hide rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Vutomi's GitHub stats](https://github-readme-stats.vercel.app/api?username=VutomiNkuna icons=true&theme=radical&hide rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
